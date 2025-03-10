@@ -1,0 +1,10 @@
+# Backend ignores
+routeOptimiserBackend/venv/
+routeOptimiserBackend/__pycache__/
+routeOptimiserBackend/*.pyc
+
+# Frontend ignores
+routeOptimiserFrontend/node_modules/
+routeOptimiserFrontend/.env
+routeOptimiserFrontend/dist/
+routeOptimiserFrontend/package-lock.json

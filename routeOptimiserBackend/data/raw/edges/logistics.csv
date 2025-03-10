@@ -1,0 +1,51 @@
+Country,Customs Score,Mean Port Dwell Time (days),Mean Turnaround Time at Port (days)
+Germany,3.0,10,2.4
+Singapore,3.5,3,1.3
+Netherlands,3.4,5,1.5
+United States,3.8,7,2.7
+Japan,3.2,4,0.6
+China,3.3,5,1.4
+United Kingdom,3.3,6,1.8
+Sweden,3.2,4,1.3
+Denmark,3.1,4,1.3
+Belgium,3.3,5,1.9
+Finland,3.2,4,1.6
+Austria,3.1,5,1.7
+Switzerland,3.2,5,1.8
+France,3.0,6,2.0
+Canada,2.9,7,3.2
+South Korea,3.4,5,1.3
+Hong Kong,3.5,3,0.8
+United Arab Emirates,3.2,4,1.6
+Spain,3.0,6,1.4
+Italy,3.0,6,1.9
+Norway,3.1,5,1.3
+Australia,2.9,6,2.1
+India,2.8,3,1.1
+Malaysia,3.1,4,1.2
+Thailand,3.0,4,1.4
+Taiwan,3.2,4,1.0
+Poland,2.9,5,2.4
+Czech Republic,2.8,5,1.7
+Portugal,2.9,5,1.4
+Ireland,3.0,5,1.3
+New Zealand,2.9,6,1.9
+South Africa,2.7,4,3.5
+Turkey,2.8,5,1.2
+Brazil,2.6,6,1.0
+Mexico,2.7,6,1.9
+Chile,2.7,6,1.9
+Vietnam,2.9,5,1.0
+Indonesia,2.8,5,1.5
+Saudi Arabia,2.7,5,1.1
+Russia,2.6,7,2.3
+Qatar,3.0,5,0.8
+Egypt,2.5,6,1.4
+Philippines,2.4,6,1.3
+Greece,2.9,5,1.4
+Panama,2.8,5,1.2
+Colombia,2.7,6,0.8
+Argentina,2.6,6,1.8
+Morocco,2.5,6,1.5
+Peru,2.6,6,0.9
+Kenya,2.4,6,1.3

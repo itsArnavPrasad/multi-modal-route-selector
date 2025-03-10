@@ -1,0 +1,427 @@
+Airport_IATA,Airport_City,Country,City,Distance,Time,Cost_USD
+SYD,Sydney,Australia,Canberra,273 km,3h 9min,106
+MEL,Melbourne,Australia,Canberra,649 km,7h 28min,253
+BNE,Brisbane,Australia,Canberra,1194 km,13h 45min,465
+PER,Perth,Australia,Canberra,3636 km,41h 52min,1418
+SYD,Sydney,Australia,Sydney,11.8 km,8min,4
+MEL,Melbourne,Australia,Sydney,863 km,9h 56min,336
+BNE,Brisbane,Australia,Sydney,926 km,10h 40min,361
+PER,Perth,Australia,Sydney,3851 km,44h 21min,1501
+SYD,Sydney,Australia,Melbourne,865 km,9h 58min,337
+MEL,Melbourne,Australia,Melbourne,21.2 km,15min,8
+BNE,Brisbane,Australia,Melbourne,1786 km,20h 34min,696
+PER,Perth,Australia,Melbourne,3337 km,38h 26min,1301
+SYD,Sydney,Australia,Brisbane,922 km,10h 37min,359
+MEL,Melbourne,Australia,Brisbane,1762 km,20h 18min,687
+BNE,Brisbane,Australia,Brisbane,16 km,11min,6
+SYD,Sydney,Australia,Perth,3851 km,44h 21min,1501
+MEL,Melbourne,Australia,Perth,3327 km,38h 19min,1297
+BNE,Brisbane,Australia,Perth,4249 km,48h 56min,1657
+SYD,Sydney,Australia,Adelaide,1373 km,15h 49min,535
+MEL,Melbourne,Australia,Adelaide,724 km,8h 20min,282
+BNE,Brisbane,Australia,Adelaide,2019 km,23h 15min,787
+PER,Perth,Australia,Adelaide,2611 km,30h 4min,1018
+BNE,Brisbane,Australia,Darwin,3436 km,39h 34min,1340
+PER,Perth,Australia,Darwin,4023 km,46h 20min,1568
+VIE,Vienna,Austria,Vienna,19.9 km,14min,7
+VIE,Vienna,Austria,Linz,209 km,2h 24min,81
+VIE,Vienna,Austria,Graz,205 km,2h 22min,79
+VIE,Vienna,Austria,Salzburg,322 km,3h 43min,125
+BRU,Zaventem,Belgium,Brussels,14.2 km,10min,5
+BRU,Zaventem,Belgium,Antwerp,42.4 km,29min,16
+BRU,Zaventem,Belgium,Liège,90.6 km,1h 3min,35
+BRU,Zaventem,Belgium,Ghent,65.9 km,46min,25
+GRU,São Paulo,Brazil,Brasília,1025 km,11h 48min,399
+VCP,Campinas,Brazil,Brasília,943 km,10h 52min,367
+GRU,São Paulo,Brazil,São Paulo,25.6 km,18min,9
+VCP,Campinas,Brazil,São Paulo,91.9 km,1h 4min,35
+GRU,São Paulo,Brazil,Rio de Janeiro,416 km,4h 47min,162
+VCP,Campinas,Brazil,Rio de Janeiro,515 km,5h 56min,200
+GRU,São Paulo,Brazil,Porto Alegre,1162 km,13h 23min,453
+VCP,Campinas,Brazil,Porto Alegre,1202 km,13h 51min,468
+GRU,São Paulo,Brazil,Belo Horizonte,583 km,6h 43min,227
+VCP,Campinas,Brazil,Belo Horizonte,601 km,6h 55min,234
+GRU,São Paulo,Brazil,Salvador,1987 km,22h 53min,774
+VCP,Campinas,Brazil,Salvador,2005 km,23h 5min,781
+VCP,Campinas,Brazil,Manaus,3801 km,43h 47min,1482
+VCP,Campinas,Brazil,Recife,2714 km,31h 15min,1058
+YYZ,Toronto,Canada,Ottawa,457 km,5h 16min,178
+YUL,Montreal,Canada,Ottawa,184 km,2h 7min,71
+YEG,Edmonton,Canada,Ottawa,3458 km,39h 49min,1348
+YYZ,Toronto,Canada,Toronto,27.1 km,19min,10
+YVR,Vancouver,Canada,Toronto,4366 km,50h 17min,1702
+YUL,Montreal,Canada,Toronto,529 km,6h 6min,206
+YYZ,Toronto,Canada,Vancouver,4365 km,50h 16min,1702
+YVR,Vancouver,Canada,Vancouver,11.8 km,8min,4
+YUL,Montreal,Canada,Vancouver,4895 km,56h 22min,1909
+YEG,Edmonton,Canada,Vancouver,1186 km,13h 40min,462
+YYC,Calgary,Canada,Vancouver,987 km,11h 22min,384
+YYZ,Toronto,Canada,Montreal,549 km,6h 19min,214
+YVR,Vancouver,Canada,Montreal,4894 km,56h 22min,1908
+YUL,Montreal,Canada,Montreal,18.7 km,13min,7
+YEG,Edmonton,Canada,Montreal,3587 km,41h 19min,1398
+YYZ,Toronto,Canada,Calgary,3395 km,39h 6min,1324
+YUL,Montreal,Canada,Calgary,3508 km,40h 24min,1368
+YEG,Edmonton,Canada,Calgary,272 km,3h 8min,106
+YYC,Calgary,Canada,Calgary,17.5 km,12min,6
+YYZ,Toronto,Canada,Edmonton,3462 km,39h 52min,1350
+YVR,Vancouver,Canada,Edmonton,1170 km,13h 28min,456
+YUL,Montreal,Canada,Edmonton,3576 km,41h 11min,1394
+YEG,Edmonton,Canada,Edmonton,29.6 km,20min,11
+YYC,Calgary,Canada,Edmonton,286 km,3h 18min,111
+YYZ,Toronto,Canada,Winnipeg,2217 km,25h 32min,864
+YEG,Edmonton,Canada,Winnipeg,1308 km,15h 4min,510
+YYC,Calgary,Canada,Winnipeg,1335 km,15h 22min,520
+SCL,Santiago,Chile,Santiago,17 km,12min,6
+SCL,Santiago,Chile,Valparaíso,106 km,1h 13min,41
+SCL,Santiago,Chile,Antofagasta,1338 km,15h 25min,521
+SCL,Santiago,Chile,Concepción,506 km,5h 50min,197
+PVG,Shanghai,China,Beijing,1260 km,14h 31min,491
+CAN,Guangzhou,China,Beijing,2099 km,24h 10min,818
+PEK,Beijing,China,Beijing,29.1 km,20min,11
+SZX,Shenzhen,China,Beijing,2203 km,25h 22min,859
+CTU,Chengdu,China,Beijing,1828 km,21h 3min,712
+XIY,Xianyang,China,Beijing,1099 km,12h 39min,428
+PVG,Shanghai,China,Shanghai,44.9 km,31min,17
+CAN,Guangzhou,China,Shanghai,1417 km,16h 19min,552
+PEK,Beijing,China,Shanghai,1225 km,14h 6min,477
+SZX,Shenzhen,China,Shanghai,1507 km,17h 21min,587
+CTU,Chengdu,China,Shanghai,1987 km,22h 53min,774
+XIY,Xianyang,China,Shanghai,1411 km,16h 15min,550
+CAN,Guangzhou,China,Shenzhen,150 km,1h 44min,58
+PEK,Beijing,China,Shenzhen,2210 km,25h 27min,861
+SZX,Shenzhen,China,Shenzhen,35.4 km,24min,13
+PVG,Shanghai,China,Guangzhou,1502 km,17h 18min,585
+CAN,Guangzhou,China,Guangzhou,32 km,22min,12
+PEK,Beijing,China,Guangzhou,2169 km,24h 59min,845
+SZX,Shenzhen,China,Guangzhou,107 km,1h 14min,41
+XIY,Xianyang,China,Guangzhou,1649 km,18h 59min,643
+PVG,Shanghai,China,Chongqing,1731 km,19h 56min,675
+CAN,Guangzhou,China,Chongqing,1313 km,15h 7min,512
+PEK,Beijing,China,Chongqing,1793 km,20h 39min,699
+SZX,Shenzhen,China,Chongqing,1410 km,16h 14min,549
+CTU,Chengdu,China,Chongqing,328 km,3h 47min,127
+XIY,Xianyang,China,Chongqing,744 km,8h 34min,290
+PVG,Shanghai,China,Tianjin,1128 km,12h 59min,439
+CAN,Guangzhou,China,Tianjin,2083 km,23h 59min,812
+PEK,Beijing,China,Tianjin,150 km,1h 44min,58
+SZX,Shenzhen,China,Tianjin,2188 km,25h 12min,853
+XIY,Xianyang,China,Tianjin,1131 km,13h 2min,441
+PVG,Shanghai,China,Wuhan,888 km,10h 14min,346
+CAN,Guangzhou,China,Wuhan,961 km,11h 4min,374
+PEK,Beijing,China,Wuhan,1188 km,13h 41min,463
+SZX,Shenzhen,China,Wuhan,1080 km,12h 26min,421
+CTU,Chengdu,China,Wuhan,1184 km,13h 38min,461
+XIY,Xianyang,China,Wuhan,762 km,8h 47min,297
+PVG,Shanghai,China,Chengdu,2001 km,23h 3min,780
+PEK,Beijing,China,Chengdu,1837 km,21h 9min,716
+CTU,Chengdu,China,Chengdu,23.4 km,16min,9
+XIY,Xianyang,China,Chengdu,744 km,8h 34min,290
+PVG,Shanghai,China,Qingdao,769 km,8h 51min,299
+PEK,Beijing,China,Qingdao,672 km,7h 44min,262
+SZX,Shenzhen,China,Qingdao,1969 km,22h 41min,767
+CTU,Chengdu,China,Qingdao,1942 km,22h 22min,757
+XIY,Xianyang,China,Qingdao,1222 km,14h 4min,476
+BOG,Bogota,Colombia,Bogotá,10.9 km,8min,4
+BOG,Bogota,Colombia,Medellín,407 km,4h 41min,158
+BOG,Bogota,Colombia,Cartagena,981 km,11h 18min,382
+BOG,Bogota,Colombia,Cali,446 km,5h 8min,173
+CPH,Copenhagen,Denmark,Copenhagen,6.7 km,5min,2
+CPH,Copenhagen,Denmark,Aarhus,306 km,3h 31min,119
+CPH,Copenhagen,Denmark,Odense,165 km,1h 54min,64
+HEL,Helsinki,Finland,Helsinki,18.9 km,13min,7
+HEL,Helsinki,Finland,Turku,169 km,1h 57min,65
+HEL,Helsinki,Finland,Tampere,172 km,1h 59min,67
+CDG,Paris,France,Paris,31.2 km,22min,12
+CDG,Paris,France,Marseille,795 km,9h 9min,310
+CDG,Paris,France,Lyon,488 km,5h 37min,190
+CDG,Paris,France,Bordeaux,606 km,6h 59min,236
+CDG,Paris,France,Lille,196 km,2h 15min,76
+FRA,Frankfurt,Germany,Berlin,550 km,6h 20min,214
+LEJ,Schkeuditz,Germany,Berlin,172 km,1h 59min,67
+MUC,Munich,Germany,Berlin,572 km,6h 35min,223
+FRA,Frankfurt,Germany,Frankfurt,11.9 km,8min,4
+LEJ,Schkeuditz,Germany,Frankfurt,389 km,4h 29min,151
+CGN,Cologne,Germany,Frankfurt,178 km,2h 3min,69
+MUC,Munich,Germany,Frankfurt,380 km,4h 23min,148
+FRA,Frankfurt,Germany,Hamburg,497 km,5h 43min,193
+LEJ,Schkeuditz,Germany,Hamburg,378 km,4h 21min,147
+CGN,Cologne,Germany,Hamburg,436 km,5h 1min,170
+MUC,Munich,Germany,Hamburg,765 km,8h 49min,298
+FRA,Frankfurt,Germany,Munich,396 km,4h 34min,154
+LEJ,Schkeuditz,Germany,Munich,423 km,4h 52min,164
+CGN,Cologne,Germany,Munich,578 km,6h 39min,225
+MUC,Munich,Germany,Munich,33.6 km,23min,13
+FRA,Frankfurt,Germany,Düsseldorf,214 km,2h 28min,83
+CGN,Cologne,Germany,Düsseldorf,52.4 km,36min,20
+MUC,Munich,Germany,Düsseldorf,599 km,6h 54min,233
+FRA,Frankfurt,Germany,Stuttgart,198 km,2h 17min,77
+CGN,Cologne,Germany,Stuttgart,355 km,4h 5min,138
+MUC,Munich,Germany,Stuttgart,237 km,2h 44min,92
+FRA,Frankfurt,Germany,Leipzig,395 km,4h 33min,154
+LEJ,Schkeuditz,Germany,Leipzig,20 km,14min,7
+MUC,Munich,Germany,Leipzig,417 km,4h 48min,162
+MAA,Chennai,India,New Delhi,2350 km,27h 4min,916
+HYD,Hyderabad,India,New Delhi,1709 km,19h 41min,666
+BOM,Bombay,India,Pune,154 km,1h 46min,60
+BLR,Bangalore,India,Pune,873 km,10h 3min,340
+HYD,Hyderabad,India,Pune,569 km,6h 33min,221
+CCU,Kolkata,India,Pune,1883 km,21h 41min,734
+COK,Kochi,India,Pune,1289 km,14h 51min,502
+AMD,Ahmedabad,India,Pune,678 km,7h 49min,264
+MAA,Chennai,India,Ahmedabad,1833 km,21h 7min,714
+DEL,New Delhi,India,Ahmedabad,976 km,11h 14min,380
+BOM,Bombay,India,Ahmedabad,515 km,5h 56min,200
+BLR,Bangalore,India,Ahmedabad,1560 km,17h 58min,608
+HYD,Hyderabad,India,Ahmedabad,1190 km,13h 42min,464
+CCU,Kolkata,India,Ahmedabad,2061 km,23h 44min,803
+COK,Kochi,India,Ahmedabad,1975 km,22h 45min,770
+AMD,Ahmedabad,India,Ahmedabad,10.3 km,7min,4
+CGK,Jakarta,Indonesia,Jakarta,28.7 km,20min,11
+CGK,Jakarta,Indonesia,Surabaya,803 km,9h 15min,313
+CGK,Jakarta,Indonesia,Bandung,174 km,2h,67
+MXP,Ferno,Italy,Rome,626 km,7h 13min,244
+FCO,Rome,Italy,Rome,28.3 km,20min,11
+MXP,Ferno,Italy,Milan,45 km,31min,17
+FCO,Rome,Italy,Milan,600 km,6h 55min,234
+MXP,Ferno,Italy,Naples,821 km,9h 27min,320
+FCO,Rome,Italy,Naples,240 km,2h 46min,93
+MXP,Ferno,Italy,Turin,134 km,1h 33min,52
+FCO,Rome,Italy,Turin,718 km,8h 16min,280
+MXP,Ferno,Italy,Genoa,182 km,2h 6min,70
+FCO,Rome,Italy,Genoa,488 km,5h 37min,190
+NRT,Narita,Japan,Tokyo,78.7 km,54min,30
+HND,Tokyo,Japan,Tokyo,23.3 km,16min,9
+KIX,Osaka,Japan,Tokyo,532 km,6h 8min,207
+NGO,Tokoname,Japan,Tokyo,358 km,4h 7min,139
+KIX,Osaka,Japan,Osaka,51.1 km,35min,19
+NGO,Tokoname,Japan,Osaka,200 km,2h 18min,78
+NRT,Narita,Japan,Yokohama,96.4 km,1h 7min,37
+HND,Tokyo,Japan,Yokohama,21.2 km,15min,8
+NGO,Tokoname,Japan,Yokohama,342 km,3h 56min,133
+KIX,Osaka,Japan,Nagoya,206 km,2h 22min,80
+NGO,Tokoname,Japan,Nagoya,45.7 km,32min,17
+MEX,Mexico,Mexico,Mexico City,762 km,8h 47min,297
+GDL,Guadalajara,Mexico,Mexico City,556 km,6h 24min,216
+MEX,Mexico,Mexico,Monterrey,471 km,5h 25min,183
+GDL,Guadalajara,Mexico,Monterrey,808 km,9h 18min,315
+MEX,Mexico,Mexico,Guadalajara,501 km,5h 46min,195
+GDL,Guadalajara,Mexico,Guadalajara,21.1 km,15min,8
+MEX,Mexico,Mexico,Veracruz,1160 km,13h 22min,452
+GDL,Guadalajara,Mexico,Veracruz,940 km,10h 50min,366
+MEX,Mexico,Mexico,Tijuana,2161 km,24h 53min,842
+GDL,Guadalajara,Mexico,Tijuana,2230 km,25h 41min,869
+AMS,Amsterdam,Netherlands,Amsterdam,20.8 km,14min,8
+AMS,Amsterdam,Netherlands,Rotterdam,58 km,40min,22
+AMS,Amsterdam,Netherlands,The Hague,47.8 km,33min,18
+RUH,Riyadh,Saudi Arabia,Riyadh,33.6 km,23min,13
+JED,Jeddah,Saudi Arabia,Riyadh,946 km,10h 54min,368
+RUH,Riyadh,Saudi Arabia,Jeddah,987 km,11h 22min,384
+JED,Jeddah,Saudi Arabia,Jeddah,16.8 km,12min,6
+RUH,Riyadh,Saudi Arabia,Dammam,406 km,4h 41min,158
+JED,Jeddah,Saudi Arabia,Dammam,1353 km,15h 35min,527
+JNB,Johannesburg,South Africa,Pretoria,46.8 km,32min,18
+JNB,Johannesburg,South Africa,Cape Town,1423 km,16h 23min,554
+CPT,Cape Town,South Africa,Cape Town,17.7 km,12min,6
+JNB,Johannesburg,South Africa,Bloemfontein,422 km,4h 52min,164
+CPT,Cape Town,South Africa,Bloemfontein,999 km,11h 30min,389
+JNB,Johannesburg,South Africa,Johannesburg,26.6 km,18min,10
+CPT,Cape Town,South Africa,Johannesburg,1395 km,16h 4min,544
+JNB,Johannesburg,South Africa,Durban,575 km,6h 37min,224
+CPT,Cape Town,South Africa,Durban,1633 km,18h 48min,636
+JFK,New York,United States,"Washington, D.C.",386 km,4h 27min,150
+IAH,Houston,United States,"Washington, D.C.",2277 km,26h 13min,888
+ANC,Anchorage,United States,New York,7022 km,80h 52min,2738
+MIA,Miami,United States,New York,2068 km,23h 49min,806
+ORD,Chicago,United States,New York,1296 km,14h 56min,505
+JFK,New York,United States,New York,43 km,30min,16
+CVG,Cincinnati,United States,New York,1046 km,12h 3min,407
+IND,Indianapolis,United States,New York,1139 km,13h 7min,444
+ONT,Ontario,United States,New York,4440 km,51h 8min,1731
+IAH,Houston,United States,New York,2628 km,30h 16min,1024
+MSP,Minneapolis,United States,New York,1923 km,22h 9min,749
+MIA,Miami,United States,Los Angeles,4419 km,50h 54min,1723
+ONT,Ontario,United States,Los Angeles,59 km,41min,23
+SFO,San Francisco,United States,Los Angeles,604 km,6h 57min,235
+PHX,Phoenix,United States,Los Angeles,599 km,6h 54min,233
+LAX,Los Angeles,United States,Chicago,3269 km,37h 39min,1274
+MIA,Miami,United States,Chicago,2219 km,25h 33min,865
+ORD,Chicago,United States,Chicago,27 km,19min,10
+JFK,New York,United States,Chicago,1308 km,15h 4min,510
+DFW,Dallas-Fort Worth,United States,Chicago,1490 km,17h 10min,581
+ATL,Atlanta,United States,Chicago,1165 km,13h 25min,454
+CVG,Cincinnati,United States,Chicago,480 km,5h 32min,187
+IND,Indianapolis,United States,Chicago,295 km,3h 24min,115
+ONT,Ontario,United States,Chicago,3185 km,36h 41min,1242
+SEA,Seattle,United States,Chicago,3328 km,38h 20min,1297
+IAH,Houston,United States,Chicago,1717 km,19h 46min,669
+SFO,San Francisco,United States,Chicago,3439 km,39h 36min,1341
+PHX,Phoenix,United States,Chicago,2832 km,32h 37min,1104
+DEN,Denver,United States,Chicago,1598 km,18h 24min,623
+MSP,Minneapolis,United States,Chicago,655 km,7h 33min,255
+MEM,Memphis,United States,Houston,929 km,10h 42min,362
+ANC,Anchorage,United States,Houston,6787 km,78h 10min,2646
+SDF,Louisville,United States,Houston,1524 km,17h 33min,594
+LAX,Los Angeles,United States,Houston,2517 km,28h 59min,981
+MIA,Miami,United States,Houston,1933 km,22h 16min,753
+ORD,Chicago,United States,Houston,1730 km,19h 55min,674
+JFK,New York,United States,Houston,2660 km,30h 38min,1037
+DFW,Dallas-Fort Worth,United States,Houston,420 km,4h 50min,163
+ATL,Atlanta,United States,Houston,1279 km,14h 44min,498
+CVG,Cincinnati,United States,Houston,1682 km,19h 22min,655
+IND,Indianapolis,United States,Houston,1632 km,18h 48min,636
+ONT,Ontario,United States,Houston,2440 km,28h 6min,951
+SEA,Seattle,United States,Houston,3776 km,43h 29min,1472
+IAH,Houston,United States,Houston,30 km,21min,11
+SFO,San Francisco,United States,Houston,3096 km,35h 39min,1207
+PHX,Phoenix,United States,Houston,1894 km,21h 49min,738
+DEN,Denver,United States,Houston,1625 km,18h 43min,633
+MSP,Minneapolis,United States,Houston,2148 km,24h 44min,837
+MEM,Memphis,United States,Miami,1670 km,19h 14min,651
+ANC,Anchorage,United States,Miami,7986 km,91h 58min,3114
+SDF,Louisville,United States,Miami,1741 km,20h 3min,678
+LAX,Los Angeles,United States,Miami,4429 km,51h,1727
+MIA,Miami,United States,Miami,15 km,10min,5
+ORD,Chicago,United States,Miami,2258 km,26h,880
+JFK,New York,United States,Miami,2089 km,24h 4min,814
+DFW,Dallas-Fort Worth,United States,Miami,2144 km,24h 42min,836
+ATL,Atlanta,United States,Miami,1061 km,12h 13min,413
+CVG,Cincinnati,United States,Miami,1807 km,20h 49min,704
+IND,Indianapolis,United States,Miami,1928 km,22h 12min,751
+ONT,Ontario,United States,Miami,4350 km,50h 6min,1696
+SEA,Seattle,United States,Miami,5320 km,61h 16min,2074
+IAH,Houston,United States,Miami,1926 km,22h 11min,751
+SFO,San Francisco,United States,Miami,4880 km,56h 12min,1903
+PHX,Phoenix,United States,Miami,3806 km,43h 50min,1484
+DEN,Denver,United States,Miami,3314 km,38h 10min,1292
+MSP,Minneapolis,United States,Miami,3145 km,36h 13min,1226
+MEM,Memphis,United States,San Francisco,3380 km,38h 56min,1318
+ANC,Anchorage,United States,San Francisco,4936 km,56h 51min,1925
+SDF,Louisville,United States,San Francisco,3740 km,43h 4min,1458
+LAX,Los Angeles,United States,San Francisco,626 km,7h 13min,244
+MIA,Miami,United States,San Francisco,4889 km,56h 18min,1906
+ORD,Chicago,United States,San Francisco,3425 km,39h 27min,1335
+JFK,New York,United States,San Francisco,4714 km,54h 17min,1838
+DFW,Dallas-Fort Worth,United States,San Francisco,2750 km,31h 40min,1072
+ATL,Atlanta,United States,San Francisco,3978 km,45h 49min,1551
+CVG,Cincinnati,United States,San Francisco,3813 km,43h 55min,1487
+IND,Indianapolis,United States,San Francisco,3631 km,41h 49min,1416
+ONT,Ontario,United States,San Francisco,669 km,7h 42min,260
+SFO,San Francisco,United States,San Francisco,20 km,14min,7
+ALG,Algiers,Algeria,Oran,414 km,4h 46min,161
+ALG,Algiers,Algeria,Annaba,536 km,6h 10min,209
+ALG,Algiers,Algeria,Constantine,391 km,4h 30min,152
+BAH,Manama,Bahrain,Muharraq,5.3 km,4min,2
+DAC,Dhaka,Bangladesh,Dhaka,8.7 km,6min,3
+DAC,Dhaka,Bangladesh,Chittagong,259 km,2h 59min,101
+DAC,Dhaka,Bangladesh,Khulna,225 km,2h 35min,87
+CAI,Cairo,Egypt,Cairo,18.3 km,13min,7
+CAI,Cairo,Egypt,Alexandria,236 km,2h 43min,92
+CAI,Cairo,Egypt,Suez,124 km,1h 26min,48
+CAI,Cairo,Egypt,Port Said,185 km,2h 8min,72
+ADD,Addis Ababa,Ethiopia,Addis Ababa,6.9 km,5min,2
+ADD,Addis Ababa,Ethiopia,Dire Dawa,506 km,5h 50min,197
+ADD,Addis Ababa,Ethiopia,Mekelle,930 km,10h 43min,362
+ACC,Accra,Ghana,Accra,6.2 km,4min,2
+ACC,Accra,Ghana,Tema,29.8 km,21min,11
+ACC,Accra,Ghana,Kumasi,250 km,2h 53min,97
+HKG,Hong Kong,Hong Kong,Kowloon,1.6 km,1min,0
+TLV,Tel Aviv,Israel,Jerusalem,52.1 km,36min,20
+TLV,Tel Aviv,Israel,Tel Aviv,24.4 km,17min,9
+TLV,Tel Aviv,Israel,Haifa,118 km,1h 22min,46
+NBO,Nairobi,Kenya,Nairobi,16.9 km,12min,6
+NBO,Nairobi,Kenya,Mombasa,475 km,5h 28min,185
+NBO,Nairobi,Kenya,Kisumu,360 km,4h 9min,140
+KWI,Kuwait,Kuwait,Kuwait City,22.3 km,15min,8
+KWI,Kuwait,Kuwait,Shuwaikh,14.7 km,10min,5
+KWI,Kuwait,Kuwait,Ahmadi,35.7 km,25min,13
+LOS,Lagos,Nigeria,Abuja,705 km,8h 7min,274
+LOS,Lagos,Nigeria,Lagos,11.8 km,8min,4
+LOS,Lagos,Nigeria,Port Harcourt,601 km,6h 55min,234
+MCT,Muscat,Oman,Muscat,14.2 km,10min,5
+MCT,Muscat,Oman,Sohar,197 km,2h 16min,76
+MCT,Muscat,Oman,Salalah,1015 km,11h 41min,395
+CMB,Colombo,Sri Lanka,Colombo,31.7 km,22min,12
+CMB,Colombo,Sri Lanka,Sri Jayawardenepura Kotte,37.8 km,26min,14
+CMB,Colombo,Sri Lanka,Hambantota,263 km,3h 2min,102
+CMB,Colombo,Sri Lanka,Galle,151 km,1h 44min,58
+TPE,Taoyuan,Taiwan,Taipei,47.8 km,33min,18
+TPE,Taoyuan,Taiwan,Kaohsiung,330 km,3h 48min,128
+TPE,Taoyuan,Taiwan,Taichung,137 km,1h 35min,53
+TUN,Tunis,Tunisia,Sfax,268 km,3h 5min,104
+TUN,Tunis,Tunisia,Sousse,147 km,1h 42min,57
+SYD,Sydney,Australia,Darwin,3942 km,41h,1537
+MEL,Melbourne,Australia,Darwin,3755 km,39h,1464
+GRU,São Paulo,Brazil,Manaus,3879 km,40h,1513
+GRU,São Paulo,Brazil,Recife,2668 km,27h,1041
+YVR,Vancouver,Canada,Ottawa,4365 km,43h,1702
+YYC,Calgary,Canada,Ottawa,3327 km,34h,1298
+YEG,Edmonton,Canada,Toronto,3480 km,35h,1357
+YYC,Calgary,Canada,Toronto,3413 km,35h,1331
+YYC,Calgary,Canada,Montreal,3523 km,36h,1374
+YVR,Vancouver,Canada,Calgary,973 km,10h,379
+YVR,Vancouver,Canada,Winnipeg,2303 km,24h,898
+YUL,Montreal,Canada,Winnipeg,2270 km, 23h,885
+PVG,Shanghai,China,Shenzhen,1481 km,15h 50 min ,578
+CTU,Chengdu,China,Shenzhen,1709 km,18h 30 min,667
+XIY,Xianyang,China,Shenzhen,1765 km,19h 30 min,688
+CTU,Chengdu,China,Guangzhou,1575 km,17h 30 min,614
+CTU,Chengdu,China,Tianjin,1825 km,20h,712
+SZX,Shenzhen,China,Chengdu,1709 km,18h 30 min,667
+CAN,Guangzhou,China,Qingdao,1906 km,21h,743
+BOG,Bogota,Colombia,Barranquilla,1037 km,11h,404
+CGN,Cologne,Germany,Berlin,572 km,6h,223
+LEJ,Schkeuditz,Germany,Düsseldorf,467 km,5h,182
+LEJ,Schkeuditz,Germany,Stuttgart,464 km,5h,181
+CGN,Cologne,Germany,Leipzig,497 km,5h,194
+BOM,Bombay,India,New Delhi,1387 km,14h,541
+BLR,Bangalore,India,New Delhi,2129 km,22h,830
+CGK,Jakarta,Indonesia,Medan,1881 km,20h,734
+CPT,Cape Town,South Africa,Pretoria,1458 km,15h,569
+MEM,Memphis,United States,"Washington, D.C.",1411 km,13h 12min,550
+ANC,Anchorage,United States,"Washington, D.C.",6978 km,72h,2721
+SDF,Louisville,United States,"Washington, D.C.",1000 km,9h 30min,390
+LAX,Los Angeles,United States,"Washington, D.C.",4321 km,42h 30min,1685
+MIA,Miami,United States,"Washington, D.C.",1694 km,16h 30min,661
+ORD,Chicago,United States,"Washington, D.C.",1000 km,10h 30min,390
+DFW,Dallas-Fort Worth,United States,"Washington, D.C.",2167 km,20h 3min,845
+ATL,Atlanta,United States,"Washington, D.C.",1078 km,10h 17min,420
+CVG,Cincinnati,United States,"Washington, D.C.",828 km,9h,323
+IND,Indianapolis,United States,"Washington, D.C.",922 km,10h,360
+ONT,Ontario,United States,"Washington, D.C.",4247 km,40h,1656
+SEA,Seattle,United States,"Washington, D.C.",4438 km,40h,1731
+SFO,San Francisco,United States,"Washington, D.C.",4535 km,42h,1769
+PHX,Phoenix,United States,"Washington, D.C.",3690 km,34h,1439
+DEN,Denver,United States,"Washington, D.C.",2650 km,25h,1034
+MSP,Minneapolis,United States,"Washington, D.C.",1771 km,17h,691
+MEM,Memphis,United States,New York,1762 km,17h,687
+SDF,Louisville,United States,New York,1192 km,12h,465
+LAX,Los Angeles,United States,New York,4505 km,42h,1757
+DFW,Dallas-Fort Worth,United States,New York,2518 km,24h,982
+ATL,Atlanta,United States,New York,1406 km,14h,548
+SEA,Seattle,United States,New York,4596 km,43h,1792
+SFO,San Francisco,United States,New York,4684 km,44h,1827
+PHX,Phoenix,United States,New York,3862 km,36h,1506
+DEN,Denver,United States,New York,2843 km,27h,1109
+MEM,Memphis,United States,Los Angeles,2900 km,27h,1131
+ANC,Anchorage,United States,Los Angeles,5473 km,60h,2134
+SDF,Louisville,United States,Los Angeles,3366 km,31h,1313
+ORD,Chicago,United States,Los Angeles,3238 km,30h,1263
+JFK,New York,United States,Los Angeles,4596 km,43h,1792
+DFW,Dallas-Fort Worth,United States,Los Angeles,2294 km,22h,895
+ATL,Atlanta,United States,Los Angeles,3366 km,31h,1313
+CVG,Cincinnati,United States,Los Angeles,3366 km,31h,1313
+IND,Indianapolis,United States,Los Angeles,3366 km,31h,1313
+SEA,Seattle,United States,Los Angeles,1762 km,17h,687
+IAH,Houston,United States,Los Angeles,2518 km,24h,982
+DEN,Denver,United States,Los Angeles,1667 km,16h,650
+MSP,Minneapolis,United States,Los Angeles,3093 km,28h,1206
+MEM,Memphis,United States,Chicago,873 km,8h 34min,340
+ANC,Anchorage,United States,Chicago,5759 km,61h,2246
+SDF,Louisville,United States,Chicago,486 km,5h,190
+SEA,Seattle,United States,San Francisco,1281 km,13h,500
+IAH,Houston,United States,San Francisco,3128 km,29h,1220
+PHX,Phoenix,United States,San Francisco,1211 km,12h,472
+DEN,Denver,United States,San Francisco,2019 km,19h 12min,787
+MSP,Minneapolis,United States,San Francisco,3176 km,29h,1239
+LOS,Lagos,Nigeria,Kano,982 km,17h,383

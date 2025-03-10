@@ -1,0 +1,12 @@
+pandas
+networkx
+googlemaps
+haversine
+pyyaml
+logging
+plotly
+kaleido
+geopy==2.4.1
+folium==0.15.1 
+flask==3.0.2
+flask_cors

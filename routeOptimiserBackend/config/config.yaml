@@ -1,0 +1,20 @@
+data:
+  raw_nodes_dir: "data/raw/nodes"
+  raw_edges_dir: "data/raw/edges"
+  processed_dir: "data/processed"
+  cache_dir: "data/cache"
+  external_dir: "data/external"
+  graph:
+    output_file: "transport_graph.pkl"
+api:
+  google_routes_key_file: "google_api_key.txt"
+defaults:
+  fallback_time_hours: 24
+  fallback_distance_km: 100
+  dwell_time: 24
+  border_cost: 100
+  fallback_speed_km_h: 60
+  road_cost_per_km: 0.39  # USD per kg per km
+  max_road_distance_km: 2000
+  road_emission_factor: 169  # g CO2 per km per kg
+  sea_cost_per_kg: 0.1  # USD per kg

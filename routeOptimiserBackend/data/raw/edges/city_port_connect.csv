@@ -1,0 +1,231 @@
+Port_City,Port_Country,City,Distance,Time,Cost_USD
+Buenos Aires,Argentina,Rosario,299 km,3h 14min,116
+Buenos Aires,Argentina,Córdoba,695 km,7h 5min,271
+Buenos Aires,Argentina,Mendoza,1050 km,12h,409
+Buenos Aires,Argentina,Mar del Plata,414 km,4h 31min,161
+Melbourne,Australia,Canberra,662 km,6h 59min,258
+Melbourne,Australia,Sydney,876 km,8h 54min,341
+Melbourne,Australia,Brisbane,1778 km,17h 56min,693
+Melbourne,Australia,Perth,3337 km,35h,1301
+Melbourne,Australia,Adelaide,727 km,8h 5min,283
+Melbourne,Australia,Darwin,3762 km,38h,1467
+Antwerp,Belgium,Brussels,46.9 km,1h 20min,18
+Antwerp,Belgium,Liège,127 km,1h 43min,49
+Antwerp,Belgium,Ghent,60.3 km,1h 11min,23
+Santos,Brazil,Brasília,1084 km,13h 41min,422
+Santos,Brazil,São Paulo,80.3 km,1h 20min,31
+Santos,Brazil,Rio de Janeiro,511 km,6h 52min,199
+Santos,Brazil,Porto Alegre,1142 km,14h 26min,445
+Santos,Brazil,Belo Horizonte,649 km,9h 11min,253
+Santos,Brazil,Salvador,2057 km,28h,802
+Santos,Brazil,Manaus,3959 km,55h,1544
+Santos,Brazil,Recife,2732 km,38h,1065
+Vancouver,Canada,Ottawa,4367 km,44h,1703
+Vancouver,Canada,Toronto,4373 km,40h,1705
+Vancouver,Canada,Montreal,4901 km,45h,1911
+Vancouver,Canada,Calgary,1234 km,10h 51min,481
+Vancouver,Canada,Edmonton,1160 km,12h 15min,452
+Vancouver,Canada,Winnipeg,2302 km,24h,897
+San Antonio,Chile,Santiago,114 km,1h 20min,44
+San Antonio,Chile,Valparaíso,90.7 km,1h 9min,35
+San Antonio,Chile,Antofagasta,1356 km,15h 6min,528
+San Antonio,Chile,Concepción,555 km,6h 14min,216
+Shanghai,China,Beijing,1213 km,11h 59min,473
+Yantai,China,Beijing,736 km,7h 12min,287
+Qingdao,China,Beijing,659 km,6h 30min,257
+Tianjin,China,Beijing,147 km,1h 47min,57
+Guangzhou,China,Beijing,2119 km,21h 36min,826
+Xiamen,China,Beijing,2043 km,20h 51min,796
+Yingkou,China,Beijing,627 km,7h 21min,244
+Dalian,China,Beijing,840 km,8h 56min,327
+Yantai,China,Shanghai,912 km,9h 5min,355
+Qingdao,China,Shanghai,722 km,7h 22min,281
+Tianjin,China,Shanghai,1082 km,11h,421
+Guangzhou,China,Shanghai,1438 km,15h 23min,560
+Xiamen,China,Shanghai,1018 km,11h,397
+Yingkou,China,Shanghai,1671 km,17h,651
+Dalian,China,Shanghai,1073 km,18h,418
+Shanghai,China,Shenzhen,1507 km,15h 50min,587
+Yantai,China,Shenzhen,2137 km,21h 53min,833
+Qingdao,China,Shenzhen,1946 km,20h 7min,758
+Tianjin,China,Shenzhen,2172 km,21h 48min,847
+Guangzhou,China,Shenzhen,139 km,1h 46min,54
+Xiamen,China,Shenzhen,579 km,6h 14min,225
+Yingkou,China,Shenzhen,2761 km,29h,1076
+Dalian,China,Shenzhen,2298 km,30h,896
+Shanghai,China,Guangzhou,1477 km,15h 36min,576
+Yantai,China,Guangzhou,2097 km,21h 30min,817
+Qingdao,China,Guangzhou,1906 km,19h 44min,743
+Tianjin,China,Guangzhou,2132 km,21h 26min,831
+Xiamen,China,Guangzhou,647 km,6h 41min,252
+Yingkou,China,Guangzhou,2720 km,28h,1060
+Dalian,China,Guangzhou,2258 km,30h,880
+Shanghai,China,Chongqing,1695 km,18h 40min,661
+Yantai,China,Chongqing,2025 km,21h 9min,789
+Qingdao,China,Chongqing,1879 km,19h 51min,732
+Tianjin,China,Chongqing,1781 km,19h 17min,694
+Guangzhou,China,Chongqing,1299 km,13h,507
+Xiamen,China,Chongqing,1744 km,18h 52min,680
+Yingkou,China,Chongqing,2359 km,25h,920
+Dalian,China,Chongqing,2572 km,27h,1003
+Shanghai,China,Tianjin,1081 km,11h 1min,421
+Yantai,China,Tianjin,604 km,5h 54min,235
+Qingdao,China,Tianjin,527 km,5h 13min,205
+Guangzhou,China,Tianjin,2133 km,21h 26min,831
+Xiamen,China,Tianjin,1951 km,20h 6min,760
+Yingkou,China,Tianjin,614 km,7h 19min,239
+Dalian,China,Tianjin,827 km,8h 54min,322
+Shanghai,China,Wuhan,841 km,8h 43min,327
+Yantai,China,Wuhan,1271 km,13h,495
+Qingdao,China,Wuhan,1080 km,10h 52min,421
+Tianjin,China,Wuhan,1151 km,11h,448
+Guangzhou,China,Wuhan,982 km,10h 18min,382
+Xiamen,China,Wuhan,987 km,11h,384
+Yingkou,China,Wuhan,1739 km,18h,678
+Dalian,China,Wuhan,1953 km,20h,761
+Shanghai,China,Chengdu,1964 km,20h 30min,765
+Yantai,China,Chengdu,2083 km,21h 30min,812
+Qingdao,China,Chengdu,1904 km,19h 44min,742
+Tianjin,China,Chengdu,1825 km,19h 10min,711
+Guangzhou,China,Chengdu,1228 km,13h,478
+Xiamen,China,Chengdu,2069 km,21h 30min,806
+Yingkou,China,Chengdu,2403 km,26h,937
+Dalian,China,Chengdu,2616 km,28h,1020
+Shanghai,China,Qingdao,722 km,7h 22min,281
+Yantai,China,Qingdao,221 km,2h 27min,86
+Tianjin,China,Qingdao,528 km,5h 16min,205
+Guangzhou,China,Qingdao,1908 km,19h,744
+Xiamen,China,Qingdao,1686 km,17h,657
+Yingkou,China,Qingdao,1117 km,12h,435
+Dalian,China,Qingdao,403 km,11h,157
+Cartagena,Colombia,Bogotá,981 km,17h 20min,382
+Cartagena,Colombia,Medellín,650 km,11h 1min,253
+Cartagena,Colombia,Barranquilla,134 km,2h 18min,52
+Cartagena,Colombia,Cali,1138 km,19h 45min,443
+Copenhagen,Denmark,Aarhus,307 km,3h 15min,119
+Copenhagen,Denmark,Odense,166 km,2h 3min,64
+Helsinki,Finland,Turku,168 km,1h 51min,65
+Helsinki,Finland,Tampere,179 km,2h 7min,69
+Marseilles,France,Lyon,313 km,3h 14min,122
+Marseilles,France,Bordeaux,658 km,9h 4min,256
+Hamburg,Germany,Berlin,290 km,3h 15min,113
+Bremerhaven,Germany,Berlin,462 km, 5h 1min,180
+Hamburg,Germany,Frankfurt,498 km,5h 2min,194
+Bremerhaven,Germany,Frankfurt,527 km,5h 45min,205
+Bremerhaven,Germany,Hamburg,181 km,2h 5min,70
+Hamburg,Germany,Munich,792 km,8h 1min,308
+Bremerhaven,Germany,Munich,823 km,8h 45min,320
+Hamburg,Germany,Düsseldorf,410 km,4h 49min,159
+Bremerhaven,Germany,Düsseldorf,364 km,4h 5min,141
+Hamburg,Germany,Stuttgart,688 km,7h 1min,268
+Bremerhaven,Germany,Stuttgart,688 km,7h,268
+Hamburg,Germany,Leipzig,397 km,4h 9min,154
+Bremerhaven,Germany,Leipzig,427 km,4h 41min,166
+Bombay,India,New Delhi,1385 km,24h,540
+Kandla,India,New Delhi,1165 km,20h,454
+Kandla,India,Bombay,819 km,15h,319
+Bombay,India,Bengaluru,982 km,15h,382
+Kandla,India,Bengaluru,1200 km,18h,468
+Bombay,India,Chennai,1337 km,21h,521
+Kandla,India,Chennai,1680 km,26h,655
+Bombay,India,Kolkata,1674 km,26h,652
+Kandla,India,Kolkata,2000 km,31h,780
+Bombay,India,Hyderabad,622 km,10h,242
+Bombay,India,Pune,148 km,2h 44min,57
+Kandla,India,Pune,800 km,14h,312
+Bombay,India,Ahmedabad,521 km,9h 38min,203
+Kandla,India,Ahmedabad,298 km,5h 50min,116
+Tanjung Priok,Indonesia,Jakarta,11.4 km,23min,4
+Tanjung Perak,Indonesia,Jakarta,787 km,9h 44min,306
+Tanjung Priok,Indonesia,Surabaya,786 km,9h 52min,306
+Tanjung Perak,Indonesia,Surabaya,6.0 km,13min,2
+Tanjung Priok,Indonesia,Bandung,157 km,2h 22min,61
+Tanjung Perak,Indonesia,Bandung,706 km,8h 41min,275
+Tanjung Priok,Indonesia,Medan,1889 km,21h,736
+Tanjung Perak,Indonesia,Medan,2668 km,47h,1040
+Genoa,Italy,Rome,500 km,5h 31min,195
+Genoa,Italy,Milan,146 km,2h 1min,56
+Genoa,Italy,Naples,705 km,7h 12min,274
+Genoa,Italy,Turin,171 km,2h 16min,66
+Yokohama,Japan,Tokyo,33.8 km,42min,13
+Yokohama,Japan,Osaka,486 km, 2h 30min,189
+Tokyo,Japan,Yokohama,35.2 km,42min,13
+Yokohama,Japan,Nagoya,331 km,3h 57min,129
+Tokyo,Japan,Nagoya,343 km,4h 16min,133
+Manzanillo,Mexico,Mexico City,835 km,10h 1min,325
+Manzanillo,Mexico,Monterrey,1019 km,12h,397
+Manzanillo,Mexico,Guadalajara,287 km,3h 41min,111
+Manzanillo,Mexico,Veracruz,1220 km,14h,475
+Manzanillo,Mexico,Tijuana,2483 km,28h,968
+Rotterdam,Netherlands,The Hague,23.9 km,46min,9
+Novorossiysk,Russia,Moscow,1505 km,18h,586
+Novorossiysk,Russia,Saint Petersburg,2218 km,26h,865
+Novorossiysk,Russia,Novosibirsk,4159 km,47h,1622
+Novorossiysk,Russia,Vladivostok,10200 km,146h,3978
+Jeddah,Saudi Arabia,Riyadh,955 km,10h 30min,372
+Jeddah,Saudi Arabia,Dammam,1361 km,14h 30min,530
+Durban,South Africa,Pretoria,614 km,7h 1min,239
+Durban,South Africa,Cape Town,1636 km,18h,638
+Durban,South Africa,Bloemfontein,634 km,7h 36min,247
+Durban,South Africa,Johannesburg,571 km,6h 30min,222
+Ambarli,Turkey,Ankara,483 km,4h 51min,188
+Ambarli,Turkey,Istanbul,33.6 km,55min,13
+Ambarli,Turkey,Izmir,523 km,5h 7min,203
+Ambarli,Turkey,Bursa,198 km,2h 23min,77
+Felixstowe,United Kingdom,London,149.83 km,2h 48min,58
+Felixstowe,United Kingdom,Manchester,397.51 km,4h 50min,155
+Felixstowe,United Kingdom,Birmingham,263.93 km,3h 6min,102
+Felixstowe,United Kingdom,Liverpool,420.04 km,4h 55min,163
+Houston,United States,"Washington, D.C.",2265.95 km,21h 37min,883
+Los Angeles,United States,"Washington, D.C.",4295.33 km,32h,1675
+New York,United States,"Washington, D.C.",315.43 km,3h 31min,123
+Savannah,United States,"Washington, D.C.",925.37 km,9h 5min,360
+Houston,United States,New York,2618.4 km,25h,1021
+Los Angeles,United States,New York,4488.45 km,33h,1750
+New York,United States,New York,114.1 km,1h 32min,44
+Savannah,United States,New York,1208.61 km,11h 30min,471
+Houston,United States,Los Angeles,2216.06 km,25h,864
+New York,United States,Los Angeles,4445.0 km,33h,1733
+Savannah,United States,Los Angeles,3897.82 km,30h,1520
+Houston,United States,Chicago,1742.92 km,17h,679
+Los Angeles,United States,Chicago,3242.82 km,27h,1264
+New York,United States,Chicago,1305.17 km,13h,509
+Savannah,United States,Chicago,1609.34 km,15h,627
+Los Angeles,United States,Houston,2684.38 km,25h,1046
+New York,United States,Houston,2285.26 km,21h,891
+Savannah,United States,Houston,1609.34 km,15h,627
+Houston,United States,Miami,1913.51 km,18h,746
+Los Angeles,United States,Miami,4399.94 km,33h,1715
+New York,United States,Miami,2016.5 km,19h,786
+Savannah,United States,Miami,791.8 km,7h,308
+Houston,United States,San Francisco,3102.81 km,29h,1210
+Los Angeles,United States,San Francisco,616.38 km,6h,240
+New York,United States,San Francisco,4710.54 km,34h,1837
+Savannah,United States,San Francisco,4375.8 km,32h,1706
+Alexandria,Egypt,Cairo,218 km,2h 35min,85
+Port Said,Egypt,Cairo,200 km,2h 34min,78
+Port Said,Egypt,Alexandria,261 km,3h 34min,101
+Alexandria,Egypt,Suez,361 km,4h 11min,140
+Port Said,Egypt,Suez,172 km,2h 29min,67
+Alexandria,Egypt,Port Said,257 km,3h 33min,100
+Piraeus,Greece,Athens,9.1 km,24min,3
+Piraeus,Greece,Thessaloniki,508 km,5h 20min,198
+Hong Kong,Hong Kong,Kowloon,1.6 km,5min,0
+Bandar Abbas,Iran,Tehran,1278 km,15h,498
+Bandar Abbas,Iran,Mashhad,1397 km,17h,544
+Bandar Abbas,Iran,Isfahan,966 km,12h,376
+Haifa,Israel,Jerusalem,149 km,1h 56min,58
+Haifa,Israel,Tel Aviv,109 km,1h 37min,42
+Lagos,Nigeria,Abuja,715 km,12h,278
+Lagos,Nigeria,Port Harcourt,610 km,9h 38min,237
+Lagos,Nigeria,Kano,991 km,15h,386
+Muscat,Oman,Sohar,205 km,2h 3min,79
+Muscat,Oman,Salalah,1016 km,9h 37min,396
+Constantza,Romania,Bucharest,223 km,2h 31min,86
+Constantza,Romania,Cluj-Napoca,676 km,8h 8min,263
+Constantza,Romania,Timișoara,768 km,9h 12min,299
+Colombo,Sri Lanka,Sri Jayawardenepura Kotte,9.0 km,17min,3
+Colombo,Sri Lanka,Hambantota,242 km,3h 22min,94
+Colombo,Sri Lanka,Galle,125 km,2h 5min,48
+Kaohsiung,Taiwan,Taipei,353 km,3h 45min,137
+Kaohsiung,Taiwan,Taichung,199 km,2h 15min,77

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --neon-blue: #00FFFF;
+    --neon-pink: #FF007F;
+    --neon-green: #39FF14;
+  }
+
+  body {
+    @apply bg-black text-gray-100 font-['Montserrat'];
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-pink-500;
+  }
+}
+
+@layer components {
+  .neon-border {
+    @apply border border-transparent bg-gradient-to-r from-cyan-400 to-pink-500 rounded-lg p-[1px];
+  }
+
+  .neon-button {
+    @apply bg-gradient-to-r from-cyan-400 to-pink-500 text-black font-semibold 
+    hover:from-pink-500 hover:to-cyan-400 transition-all duration-300
+    shadow-[0_0_15px_rgba(0,255,255,0.5)] hover:shadow-[0_0_25px_rgba(255,0,127,0.5)];
+  }
+
+  .neon-input {
+    @apply bg-black/50 border border-gray-700 text-gray-100
+    focus:border-transparent focus:ring-2 focus:ring-cyan-400/50
+    placeholder:text-gray-500;
+  }
+
+  .neon-card {
+    @apply bg-black/80 backdrop-blur-sm border border-gray-800
+    hover:border-gray-700 transition-all duration-300
+    shadow-lg shadow-cyan-500/10;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out forwards;
+}

@@ -1,0 +1,178 @@
+Port_City,Port_Country,City,Distance,Time,Cost_USD
+Los Angeles,United States,Memphis,2885.55,33h 14min,1125
+New York,United States,Memphis,1721.99,19h 50min,672
+Savannah,United States,Memphis,1028.0,11h 50min,401
+Houston,United States,Anchorage,6664.0,76h 45min,2599
+Los Angeles,United States,Anchorage,5471.76,63h 1min,2134
+New York,United States,Anchorage,7053.74,81h 14min,2751
+Savannah,United States,Anchorage,7306.4,84h 9min,2849
+Houston,United States,Louisville,1530.0,17h 37min,597
+Los Angeles,United States,Louisville,3353.0,38h 37min,1308
+New York,United States,Louisville,1186.0,13h 40min,463
+Savannah,United States,Louisville,1062.0,12h 14min,414
+Houston,United States,Los Angeles,2491.26,28h 41min,972
+New York,United States,Los Angeles,4445.0,51h 12min,1734
+Savannah,United States,Los Angeles,3897.82,44h 53min,1520
+Houston,United States,Miami,1915.0,22h 3min,747
+Los Angeles,United States,Miami,4403.15,50h 43min,1717
+New York,United States,Miami,2016.5,23h 13min,786
+Savannah,United States,Miami,791.8,9h 7min,309
+Houston,United States,Chicago,1742.92,20h 4min,680
+Los Angeles,United States,Chicago,3242.82,37h 21min,1265
+New York,United States,Chicago,1305.17,15h 2min,509
+Savannah,United States,Chicago,1533.0,17h 39min,598
+Houston,United States,New York,2623.0,30h 13min,1023
+Los Angeles,United States,New York,4488.45,51h 42min,1750
+New York,United States,New York,114.1,1h 19min,44
+Savannah,United States,New York,1324.49,15h 15min,517
+Houston,United States,Dallas-Fort Worth,392.68,4h 31min,153
+Los Angeles,United States,Dallas-Fort Worth,2306.0,26h 33min,899
+New York,United States,Dallas-Fort Worth,2478.38,28h 33min,967
+Savannah,United States,Dallas-Fort Worth,1670.49,19h 14min,651
+Houston,United States,Atlanta,1276.21,14h 42min,498
+Los Angeles,United States,Atlanta,3500.31,40h 19min,1365
+New York,United States,Atlanta,1416.0,16h 18min,552
+Savannah,United States,Atlanta,399.12,4h 36min,156
+Houston,United States,Cincinnati,1697.85,19h 33min,662
+Los Angeles,United States,Cincinnati,3500.31,40h 19min,1365
+New York,United States,Cincinnati,1025.0,11h 48min,400
+Savannah,United States,Cincinnati,1070.21,12h 20min,417
+Houston,United States,Indianapolis,1631.0,18h 47min,636
+Los Angeles,United States,Indianapolis,3326.51,38h 19min,1297
+New York,United States,Indianapolis,1118.49,12h 53min,436
+Savannah,United States,Indianapolis,1242.41,14h 19min,485
+Houston,United States,Ontario,2433.32,28h 1min,949
+Los Angeles,United States,Ontario,59.71,41min,23
+New York,United States,Ontario,4387.06,50h 31min,1711
+Savannah,United States,Ontario,3860.0,44h 27min,1505
+Houston,United States,Seattle,3770.0,43h 25min,1470
+Los Angeles,United States,Seattle,1826.6,21h 2min,712
+New York,United States,Seattle,4589.0,52h 51min,1790
+Savannah,United States,Seattle,4641.34,53h 27min,1810
+Los Angeles,United States,Houston,2490.0,28h 41min,971
+New York,United States,Houston,2623.0,30h 13min,1023
+Savannah,United States,Houston,1554.62,17h 54min,606
+Houston,United States,San Francisco,3102.81,35h 44min,1210
+Los Angeles,United States,San Francisco,616.38,7h 6min,240
+New York,United States,San Francisco,4710.54,54h 15min,1837
+Savannah,United States,San Francisco,4375.8,50h 24min,1707
+Houston,United States,Phoenix,1894.0,21h 49min,739
+Los Angeles,United States,Phoenix,598.67,6h 54min,233
+New York,United States,Phoenix,3875.0,44h 38min,1511
+Savannah,United States,Phoenix,3318.46,38h 13min,1294
+Houston,United States,Denver,1652.0,19h 2min,644
+Los Angeles,United States,Denver,1635.0,18h 50min,638
+New York,United States,Denver,2870.0,33h 3min,1119
+Savannah,United States,Denver,2658.63,30h 37min,1037
+Houston,United States,Minneapolis,1895.0,21h 49min,739
+Los Angeles,United States,Minneapolis,3100.0,35h 42min,1209
+New York,United States,Minneapolis,1958.57,22h 33min,764
+Savannah,United States,Minneapolis,2212.84,25h 29min,863
+Vancouver,Canada,Toronto,4373.0,50h 22min,1705
+Vancouver,Canada,Montreal,4901.0,56h 27min,1911
+Manzanillo,Mexico,Mexico,782.0,9h,305
+Manzanillo,Mexico,Guadalajara,287.0,3h 18min,112
+Vancouver,Canada,Edmonton,1160.0,13h 22min,452
+Vancouver,Canada,Calgary,973.0,11h 12min,379
+Hamburg,Germany,Frankfurt,498.0,5h 44min,194
+Bremerhaven,Germany,Frankfurt,529.0,6h 6min,206
+Marseilles,France,Paris,773.0,8h 54min,301
+Rotterdam,Netherlands,Amsterdam,78.0,54min,30
+Hamburg,Germany,Schkeuditz,380.0,4h 23min,148
+Bremerhaven,Germany,Schkeuditz,411.0,4h 44min,160
+Hamburg,Germany,Cologne,425.0,4h 54min,166
+Bremerhaven,Germany,Cologne,379.0,4h 22min,148
+Antwerp,Belgium,Zaventem,45.6,32min,18
+Bremerhaven,Germany,Munich,809.0,9h 19min,316
+Genoa,Italy,Ferno,174.0,2h,68
+Algeciras,Spain,Madrid,660.0,7h 36min,257
+Valencia,Spain,Madrid,362.0,4h 10min,141
+Algeciras,Spain,Barcelona,1109.0,12h 46min,433
+Valencia,Spain,Barcelona,363.0,4h 11min,142
+Genoa,Italy,Rome,491.0,5h 39min,191
+Gothenburg,Sweden,Stockholm,469.0,5h 24min,183
+Yantai,China,Shanghai,912.0,10h 30min,356
+Qingdao,China,Shanghai,722.0,8h 19min,282
+Tianjin,China,Shanghai,1082.0,12h 28min,422
+Guangzhou,China,Shanghai,1438.0,16h 34min,561
+Xiamen,China,Shanghai,1018.0,11h 43min,397
+Yingkou,China,Shanghai,1671.0,19h 15min,652
+Dalian,China,Shanghai,1073.0,12h 21min,418
+Yokohama,Japan,Narita,95.1,1h 6min,37
+Tokyo,Japan,Narita,74.1,51min,29
+Kaohsiung,Taiwan,Taoyuan,325.0,3h 45min,127
+Shanghai,China,Guangzhou,1477.0,17h 1min,576
+Yantai,China,Guangzhou,2097.0,24h 9min,818
+Qingdao,China,Guangzhou,1906.0,21h 57min,743
+Tianjin,China,Guangzhou,2132.0,24h 33min,831
+Xiamen,China,Guangzhou,647.0,7h 27min,252
+Yingkou,China,Guangzhou,2720.0,31h 20min,1061
+Dalian,China,Guangzhou,2258.0,26h,881
+Shanghai,China,Beijing,1213.0,13h 58min,473
+Yantai,China,Beijing,736.0,8h 29min,287
+Qingdao,China,Beijing,659.0,7h 35min,257
+Tianjin,China,Beijing,147.0,1h 42min,57
+Guangzhou,China,Beijing,2119.0,24h 24min,826
+Xiamen,China,Beijing,2043.0,23h 32min,797
+Yingkou,China,Beijing,627.0,7h 13min,245
+Dalian,China,Beijing,840.0,9h 40min,328
+Yokohama,Japan,Tokyo,33.8,23min,13
+Laem Chabang,Thailand,Bangkok,127.0,1h 28min,50
+Johor,Malaysia,Sepang,245.0,2h 49min,96
+Malacca,Malaysia,Sepang,118.0,1h 22min,46
+Tanjung Priok,Indonesia,Jakarta,11.4,8min,4
+Tanjung Perak,Indonesia,Jakarta,787.0,9h 4min,307
+Bombay,India,Chennai,1307.0,15h 3min,510
+Kandla,India,Chennai,2182.0,25h 8min,851
+Kandla,India,New Delhi,1070.0,12h 19min,417
+Kandla,India,Bombay,818.0,9h 25min,319
+Yokohama,Japan,Osaka,486.0,5h 36min,190
+Shanghai,China,Shenzhen,1507.0,17h 21min,588
+Yantai,China,Shenzhen,2137.0,24h 37min,833
+Qingdao,China,Shenzhen,1946.0,22h 25min,759
+Guangzhou,China,Shenzhen,139.0,1h 36min,54
+Xiamen,China,Shenzhen,579.0,6h 40min,226
+Dalian,China,Shenzhen,2298.0,26h 28min,896
+Shanghai,China,Chengdu,1964.0,22h 37min,766
+Yantai,China,Chengdu,2083.0,23h 59min,812
+Qingdao,China,Chengdu,1904.0,21h 56min,743
+Tianjin,China,Chengdu,1825.0,21h 1min,712
+Guangzhou,China,Chengdu,1575.0,18h 8min,614
+Xiamen,China,Chengdu,2069.0,23h 50min,807
+Yingkou,China,Chengdu,2403.0,27h 40min,937
+Dalian,China,Chengdu,2616.0,30h 8min,1020
+Saigon,Vietnam,Hanoi,1680.0,19h 21min,655
+Haiphong,Vietnam,Hanoi,120.0,1h 23min,47
+Danang,Vietnam,Hanoi,765.0,8h 49min,298
+Haiphong,Vietnam,Saigon,1754.0,20h 12min,684
+Danang,Vietnam,Saigon,923.0,10h 38min,360
+Yokohama,Japan,Tokoname,340.0,3h 55min,133
+Tokyo,Japan,Tokoname,351.0,4h 3min,137
+Shanghai,China,Xianyang,1407.0,16h 12min,549
+Yantai,China,Xianyang,1390.0,16h,542
+Qingdao,China,Xianyang,1210.0,13h 56min,472
+Tianjin,China,Xianyang,1122.0,12h 55min,438
+Xiamen,China,Xianyang,1753.0,20h 11min,684
+Yingkou,China,Xianyang,1699.0,19h 34min,663
+Dalian,China,Xianyang,1913.0,22h 2min,746
+Bombay,India,Bangalore,982.0,11h 19min,383
+Kandla,India,Bangalore,1856.0,21h 23min,724
+Bombay,India,Hyderabad,708.0,8h 9min,276
+Kandla,India,Hyderabad,1477.0,17h 1min,576
+Bombay,India,Kolkata,1884.0,21h 42min,735
+Bombay,India,Ahmedabad,521.0,6h,203
+Kandla,India,Ahmedabad,300.0,3h 27min,117
+Jeddah,Saudi Arabia,Riyadh,955.0,11h,372
+Haifa,Israel,Tel Aviv,92.8,1h 4min,36
+Alexandria,Egypt,Cairo,218.0,2h 31min,85
+Port Said,Egypt,Cairo,197.0,2h 16min,77
+Durban,South Africa,Johannesburg,571.0,6h 35min,223
+Tangier,Morocco,Casablanca,333.0,3h 50min,130
+Santos,Brazil,São Paulo,79.1,55min,31
+Cartagena,Colombia,Bogota,981.0,11h 18min,383
+San Antonio,Chile,Santiago,114.0,1h 19min,44
+Callao,Peru,Lima,9.8,7min,4
+Santos,Brazil,Campinas,189.0,2h 11min,74
+Melbourne,Australia,Sydney,876.0,10h 5min,342
+Melbourne,Australia,Brisbane,1775.0,20h 27min,692
+Melbourne,Australia,Perth,3337.0,38h 26min,1301
